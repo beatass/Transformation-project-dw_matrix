@@ -1,7 +1,7 @@
 # Transformation project, i.e. Matrix - learn the rules of the game
 
-There are specific topics from 5 days challenge initialized by Vladimir Alekseichenko
-in his MATRIX (part one) project, posted in 10-14.02.2020.
+There are specific topics from **5 days challenge** initialized by Vladimir Alekseichenko
+in his **MATRIX** (part one) project, posted in 10-14.02.2020 in online form.
 
 ## Description of particular days:
 
